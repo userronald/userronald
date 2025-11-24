@@ -1,11 +1,11 @@
 <!-- HERO SECTION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Phantom+%7C+userronald;Front-End+Developer+%7C+JavaScript+%7C+React;3%2B+Years+Experience+in+Web+Development;Crafting+Neon+UI+%26+Building+Smart+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sahaya+Ronaldo+%7C+userronald;Front-End+Developer+%7C+JavaScript+%7C+React;3%2B+Years+Experience+in+Web+Development;Crafting+Neon+UI+%26+Building+Smart+Apps" />
 </h1>
 
 ---
 
-## 🧛‍♂️ About Me — *Phantom Style*
+## 🧛‍♂️ About Me —
 I'm **Sahaya Ronaldo**, a passionate **Front-End Developer** with  
 **3+ years of real-world experience** building modern, interactive, responsive UIs.
 
