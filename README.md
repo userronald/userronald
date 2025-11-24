@@ -5,7 +5,7 @@
 
 ---
 
-## 🧛‍♂️ About Me —
+## 🧛‍♂️ About Myself
 I'm **Sahaya Ronaldo**, a passionate **Front-End Developer** with  
 **3+ years of real-world experience** building modern, interactive, responsive UIs.
 
@@ -71,7 +71,7 @@ Drag & drop tasks (DND)
 
 ---
 
-# 📊 GitHub Stats (Dark Neon)
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=userronald&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
@@ -110,7 +110,7 @@ Drag & drop tasks (DND)
 
 ---
 
-# 🧛‍♂️ Ronaldo Signature
+# 🧛‍♂️ Ronaldo's Signature
 > *“I don’t seek honor or pride — I create worlds that make people forget their pain, even for a moment.”*
 
 ---
